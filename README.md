@@ -1,3 +1,7 @@
+
+<p align="center"> Una app donde puedes buscar cervecerias filtrando por cuidad, por nombre o por tipo de cerveza!</p>
+
+
 <div>
   
   <ul align="center">
